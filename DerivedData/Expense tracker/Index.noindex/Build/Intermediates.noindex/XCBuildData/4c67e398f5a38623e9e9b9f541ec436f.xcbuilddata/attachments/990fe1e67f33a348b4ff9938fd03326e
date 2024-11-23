@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense trackerUITests.build/Objects-normal/arm64/Expense trackerUITests-master.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense trackerUITests.build/Objects-normal/arm64/Expense trackerUITests-master.dia",
+    "emit-module-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense trackerUITests.build/Objects-normal/arm64/Expense trackerUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense trackerUITests.build/Objects-normal/arm64/Expense trackerUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense trackerUITests.build/Objects-normal/arm64/Expense trackerUITests-master.swiftdeps"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense trackerUITests/Expense_trackerUITests.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense trackerUITests/Expense_trackerUITestsLaunchTests.swift" : {
+
+  }
+}

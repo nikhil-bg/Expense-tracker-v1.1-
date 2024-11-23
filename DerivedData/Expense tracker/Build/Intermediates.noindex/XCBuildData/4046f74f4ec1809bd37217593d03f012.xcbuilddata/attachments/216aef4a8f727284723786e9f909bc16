@@ -1,0 +1,118 @@
+{
+  "" : {
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense tracker-master.dia",
+    "emit-module-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense tracker-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense tracker-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense tracker-master.swiftdeps"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/ContentView.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Expense_trackerApp.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense_trackerApp.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense_trackerApp.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense_trackerApp.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense_trackerApp.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense_trackerApp.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense_trackerApp.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense_trackerApp.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense_trackerApp~partial.swiftmodule"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Managers/CurrencyManager.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyManager.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyManager.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyManager.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyManager.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyManager.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyManager.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyManager.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyManager~partial.swiftmodule"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Managers/ExpenseManager.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseManager.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseManager.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseManager.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseManager.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseManager.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseManager.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseManager.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseManager~partial.swiftmodule"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Models/Expense.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/Expense~partial.swiftmodule"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Views/AddExpenseView.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/AddExpenseView.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/AddExpenseView.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/AddExpenseView.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/AddExpenseView.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/AddExpenseView.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/AddExpenseView.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/AddExpenseView.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/AddExpenseView~partial.swiftmodule"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Views/CurrencyConverterView.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyConverterView.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyConverterView.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyConverterView.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyConverterView.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyConverterView.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyConverterView.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyConverterView.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/CurrencyConverterView~partial.swiftmodule"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Views/ExpenseLogView.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseLogView.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseLogView.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseLogView.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseLogView.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseLogView.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseLogView.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseLogView.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseLogView~partial.swiftmodule"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Views/ExpenseRowView.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseRowView.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseRowView.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseRowView.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseRowView.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseRowView.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseRowView.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseRowView.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/ExpenseRowView~partial.swiftmodule"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Views/TrendsView.swift" : {
+    "const-values" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/TrendsView.swiftconstvalues",
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/TrendsView.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/TrendsView.dia",
+    "index-unit-output-path" : "/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/TrendsView.o",
+    "llvm-bc" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/TrendsView.bc",
+    "object" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/TrendsView.o",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/TrendsView.swiftdeps",
+    "swiftmodule" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/Expense tracker.build/Debug-iphonesimulator/Expense tracker.build/Objects-normal/arm64/TrendsView~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,31 @@
+Target dependency graph (18 targets)
+Target 'Expense trackerUITests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerUITests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerUITests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerUITests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerUITests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerUITests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerTests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerTests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerTests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerTests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerTests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense trackerTests' in project 'Expense tracker'
+➜ Explicit dependency on target 'Expense tracker' in project 'Expense tracker'
+Target 'Expense tracker' in project 'Expense tracker' (no dependencies)
+Target 'Expense tracker' in project 'Expense tracker' (no dependencies)
+Target 'Expense tracker' in project 'Expense tracker' (no dependencies)
+Target 'Expense tracker' in project 'Expense tracker' (no dependencies)
+Target 'Expense tracker' in project 'Expense tracker' (no dependencies)
+Target 'Expense tracker' in project 'Expense tracker' (no dependencies)

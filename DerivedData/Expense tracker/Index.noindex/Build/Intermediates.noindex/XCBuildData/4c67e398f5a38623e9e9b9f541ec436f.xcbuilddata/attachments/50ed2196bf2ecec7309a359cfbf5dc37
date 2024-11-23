@@ -1,0 +1,42 @@
+{
+  "" : {
+    "dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense tracker.build/Objects-normal/arm64/Expense tracker-master.d",
+    "diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense tracker.build/Objects-normal/arm64/Expense tracker-master.dia",
+    "emit-module-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense tracker.build/Objects-normal/arm64/Expense tracker-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense tracker.build/Objects-normal/arm64/Expense tracker-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense tracker.build/Objects-normal/arm64/Expense tracker-master.swiftdeps"
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/Build/Intermediates.noindex/Expense tracker.build/Debug-iphoneos/Expense tracker.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/ContentView.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Expense_trackerApp.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Managers/CurrencyManager.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Managers/ExpenseManager.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Models/Expense.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Views/AddExpenseView.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Views/CurrencyConverterView.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Views/ExpenseLogView.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Views/ExpenseRowView.swift" : {
+
+  },
+  "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker/Views/TrendsView.swift" : {
+
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "xojit"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "065ec365a985a4c0a00599cdceeafc65dd602ce209d1d1739da9d99cf08e3f27"
+    }
+  ],
+  "containerPath" : "/Users/nikhilbg/Desktop/Expense tracker/Expense tracker.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Products",
+      "derivedDataPath" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone17,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone17,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/nikhilbg/Desktop/Expense tracker/DerivedData/Expense tracker/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "979C9198-7FED-4659-B6DE-DDD5D3CE6649",
+          "TARGET_DEVICE_MODEL" : "iPhone17,1",
+          "TARGET_DEVICE_OS_VERSION" : "18.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

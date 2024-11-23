@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'Expense tracker' in project 'Expense tracker' (no dependencies)
